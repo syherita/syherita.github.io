@@ -1,9 +1,4 @@
-# syherita.github.io
-<html>
-<head><title>書かない</title></head>
-<body>
-<h3>誰も書かない</h3>
-かかない
-</body>
-</html>
+# 書かない
+## 書くもんか
+誰もかかない
 
