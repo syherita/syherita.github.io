@@ -1,0 +1,30 @@
+syherita
+
+github pageはどのリポジトリでもできそうだが
+user.github.ioリポしとりがデフォルト
+
+ブラウザで作る
+README.mdがあるとそれをデフォルト
+index.htmlがあるとこれがデフォルト
+
+ファイルを修正してから反映されるまでにしばらくかかる
+
+syherita.github.ioでは
+index.htmlをawkで作った
+
+タイトルとpdfのぱすのcsvを作るとmake-list.shでリスト部分を作る
+
+リストの前 templo.html
+リストの後 templ1.htmlを、りすとの前後につけr
+
+sh make-page.sh
+でindex.htmlを作る
+
+修正手順
+1)新しいのはdesc.csvに追記
+2) pdfをディレクトリpdfについか
+2) sh make-page.sh > index.html
+3) index.htmlをブラウザで確認
+4) git commit
+5) git push
+6) しばらくしたら、http://syherita.github.io
