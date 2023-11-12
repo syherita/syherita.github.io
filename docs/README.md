@@ -6,3 +6,7 @@
 
 page.io
 docs/here
+
+## 配布
+sh setupsite.sh
+ 
